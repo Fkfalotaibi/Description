@@ -12,8 +12,8 @@ Hello, My name is fowzan khalid alhantoshi, I'm from Sajir in Saudi Arabia, I'm 
 
 ## Contact
 
-Email: Fowzan4714@hotmail.com
-Phone Number: -
+- Email: Fowzan4714@hotmail.com
+- Phone Number: -
 
 ```markdown
 Syntax highlighted code block
